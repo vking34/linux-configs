@@ -1,6 +1,7 @@
-deb http://http.kali.org/kali kali-rolling main contrib non-free
-deb http://old.kali.org/kali sana main non-free contrib
+deb http://http.kali.org/kali kali-rolling main non-free contrib
+deb-src http://http.kali.org/kali kali-rolling main non-free contrib
+#deb http://old.kali.org/kali sana main non-free contrib
 #deb http://archive.ubuntu.com/ubuntu/ zesty universe
 #deb http://archive.ubuntu.com/ubuntu/ zesty-updates universe
-deb http://repo.kali.org/kali kali-bleeding-edge main
+#deb http://repo.kali.org/kali kali-bleeding-edge main
 #deb http://security.kali.org/kali-security sana/updates main contrib non-free 
