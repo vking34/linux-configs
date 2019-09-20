@@ -2,4 +2,10 @@
 
 git checkout -b <new branch name>
 
+# show commits
 
+git log
+
+# reset commit
+
+git reset <commit_code>
